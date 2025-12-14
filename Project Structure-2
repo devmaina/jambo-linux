@@ -1,0 +1,10 @@
+jambolinux/
+├── cli/
+│   ├── main.js             # CLI entry point (Node.js)
+│   ├── config.js           # Configuration and lessons data
+│   ├── utils.js            # CLI utility functions
+├── webapp/
+│   ├── index.html          # Main HTML page (Web App)
+│   ├── style.css           # Simple CSS
+│   └── app.js              # ESM Web App logic (for fetching user progress)
+└── README.md
