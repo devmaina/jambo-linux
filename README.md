@@ -1,7 +1,7 @@
 # jambo-linux
 jambo-linux
 
-# Jambo Linux: The CLI Adventure for Kids!
+# Jambo Linux: 
 
 Jambo Linux is an interactive, gamified command-line experience designed to teach K-12 students the fundamentals of Linux.
 
