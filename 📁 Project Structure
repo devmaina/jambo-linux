@@ -1,0 +1,15 @@
+jambo-linux/
+├── README.md
+├── package.json
+├── bin/
+│   └── jambo.js
+├── lib/
+│   ├── prompts.js
+│   ├── rewards.js
+│   └── lessons.js
+├── data/
+│   └── progress.json
+└── web/
+    ├── index.html
+    ├── main.js
+    └── style.css
