@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+import chalk from "chalk";
+import { startPrompts } from "../lib/prompts.js";
+
+console.clear();
+console.log(
+  chalk.green.bold(`
+🎉 HURRAY! Welcome to your first Linux challenge! 🎉
+🐧 Welcome to JAMBO LINUX 🐧
+`)
+);
+
+startPrompts();
